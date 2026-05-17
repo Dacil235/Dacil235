@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dácil--María--Correa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A1cil-mar%C3%ADa-correa/)
 
-
 ## Sobre mí
 Perfil orientado al Análisis de Datos con Python, SQL, Tableau y Power BI, aplicado a la gestión estratégica. Mi enfoque combina la capacidad de optimizar procesos internos y transformar bases de datos complejas en soluciones de negocio.
 
