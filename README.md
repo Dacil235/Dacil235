@@ -18,7 +18,7 @@ Perfil orientado al Análisis de Datos con Python, SQL, Tableau y Power BI, apli
 | **Bases de datos** | SQL (MySQL) |
 | **Análisis y EDA** | Python (Pandas, NumPy, Seaborn, Matplotlib) |
 | **Visualización** | Power BI · Tableau |
-| **Otros** | Git · GitHub · Visual Studio Code |
+| **Otros** | Git · GitHub · Visual Studio Code · DAX |
 
 ---
 
